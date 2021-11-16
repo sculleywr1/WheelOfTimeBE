@@ -1,0 +1,14 @@
+package com.example.repository;
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.example.demo.model.Detail;
+
+public interface CharacterRepository extends JpaRepository<Detail, Long> {
+	
+	List<Detail> findByNameContaining(String name);
+	
+
+}

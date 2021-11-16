@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\scull\Documents\GitRepos\WheelOfTime\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+117875910.index
+350406481.index
+1664577854.index
+3997990682.index
+810552354.index
+3435648363.index
