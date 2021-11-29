@@ -17,7 +17,6 @@ INDEX VERSION 1.131+C:\Users\scull\Documents\GitRepos\WheelOfTime\.metadata\.plu
 4279712133.index
 2527304091.index
 767314611.index
-3435648363.index
 3529917882.index
 3062119660.index
 3613879981.index
@@ -95,8 +94,8 @@ INDEX VERSION 1.131+C:\Users\scull\Documents\GitRepos\WheelOfTime\.metadata\.plu
 2279278145.index
 3585886922.index
 879348968.index
-1587477740.index
 3566446280.index
+1587477740.index
 971078268.index
 2533096505.index
 148343848.index
